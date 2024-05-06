@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbProductAIModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TBLPRODUCT">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="BRAND" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="STOCK" Type="Int16" />
+    <Property Name="BUYPRİCE" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="SELLPRİCE" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="CATEGORY" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DATEADDPRO" Type="DateTime" Precision="0" />
+    <Property Name="PRODUCTCASE" Type="Boolean" />
+  </EntityType>
+  <EntityContainer Name="DbProductAIEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TBLPRODUCT" EntityType="Self.TBLPRODUCT" />
+  </EntityContainer>
+</Schema>

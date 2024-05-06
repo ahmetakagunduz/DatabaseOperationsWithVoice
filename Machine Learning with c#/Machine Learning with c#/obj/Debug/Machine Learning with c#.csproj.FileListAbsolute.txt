@@ -1,0 +1,12 @@
+C:\Users\logar\Desktop\kampc#\mcv5\Machine Learning with c#\Machine Learning with c#\bin\Debug\Machine Learning with c#.exe.config
+C:\Users\logar\Desktop\kampc#\mcv5\Machine Learning with c#\Machine Learning with c#\bin\Debug\Machine Learning with c#.exe
+C:\Users\logar\Desktop\kampc#\mcv5\Machine Learning with c#\Machine Learning with c#\bin\Debug\Machine Learning with c#.pdb
+C:\Users\logar\Desktop\kampc#\mcv5\Machine Learning with c#\Machine Learning with c#\obj\Debug\Machine Learning with c#.csproj.AssemblyReference.cache
+C:\Users\logar\Desktop\kampc#\mcv5\Machine Learning with c#\Machine Learning with c#\obj\Debug\Interop.SpeechLib.dll
+C:\Users\logar\Desktop\kampc#\mcv5\Machine Learning with c#\Machine Learning with c#\obj\Debug\Machine Learning with c#.csproj.ResolveComReference.cache
+C:\Users\logar\Desktop\kampc#\mcv5\Machine Learning with c#\Machine Learning with c#\obj\Debug\Machine_Learning_with_c_.Form1.resources
+C:\Users\logar\Desktop\kampc#\mcv5\Machine Learning with c#\Machine Learning with c#\obj\Debug\Machine_Learning_with_c_.Properties.Resources.resources
+C:\Users\logar\Desktop\kampc#\mcv5\Machine Learning with c#\Machine Learning with c#\obj\Debug\Machine Learning with c#.csproj.GenerateResource.cache
+C:\Users\logar\Desktop\kampc#\mcv5\Machine Learning with c#\Machine Learning with c#\obj\Debug\Machine Learning with c#.csproj.CoreCompileInputs.cache
+C:\Users\logar\Desktop\kampc#\mcv5\Machine Learning with c#\Machine Learning with c#\obj\Debug\Machine Learning with c#.exe
+C:\Users\logar\Desktop\kampc#\mcv5\Machine Learning with c#\Machine Learning with c#\obj\Debug\Machine Learning with c#.pdb

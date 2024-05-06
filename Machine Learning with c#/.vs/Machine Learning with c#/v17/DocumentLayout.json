@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logar\\Desktop\\kampc#\\mcv5\\Machine Learning with c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{373D53EC-8114-40A6-8ECE-EB9FE6305D00}|Machine Learning with c#\\Machine Learning with c#.csproj|c:\\users\\logar\\desktop\\kampc#\\mcv5\\machine learning with c#\\machine learning with c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373D53EC-8114-40A6-8ECE-EB9FE6305D00}|Machine Learning with c#\\Machine Learning with c#.csproj|solutionrelative:machine learning with c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373D53EC-8114-40A6-8ECE-EB9FE6305D00}|Machine Learning with c#\\Machine Learning with c#.csproj|c:\\users\\logar\\desktop\\kampc#\\mcv5\\machine learning with c#\\machine learning with c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{373D53EC-8114-40A6-8ECE-EB9FE6305D00}|Machine Learning with c#\\Machine Learning with c#.csproj|solutionrelative:machine learning with c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\kampc#\\mcv5\\Machine Learning with c#\\Machine Learning with c#\\Form1.cs",
+              "RelativeDocumentMoniker": "Machine Learning with c#\\Form1.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\kampc#\\mcv5\\Machine Learning with c#\\Machine Learning with c#\\Form1.cs*",
+              "RelativeToolTip": "Machine Learning with c#\\Form1.cs*",
+              "ViewState": "AQIAAEkAAAAAAAAAAADwv1sAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:31:06.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\kampc#\\mcv5\\Machine Learning with c#\\Machine Learning with c#\\Form1.cs",
+              "RelativeDocumentMoniker": "Machine Learning with c#\\Form1.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\kampc#\\mcv5\\Machine Learning with c#\\Machine Learning with c#\\Form1.cs [Design]*",
+              "RelativeToolTip": "Machine Learning with c#\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:48:11.146Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

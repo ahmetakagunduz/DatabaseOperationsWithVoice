@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DbProductAIModelStoreContainer" CdmEntityContainer="DbProductAIEntities">
+    <EntitySetMapping Name="TBLPRODUCT">
+      <EntityTypeMapping TypeName="DbProductAIModel.TBLPRODUCT">
+        <MappingFragment StoreEntitySet="TBLPRODUCT">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="BRAND" ColumnName="BRAND" />
+          <ScalarProperty Name="STOCK" ColumnName="STOCK" />
+          <ScalarProperty Name="BUYPRİCE" ColumnName="BUYPRİCE" />
+          <ScalarProperty Name="SELLPRİCE" ColumnName="SELLPRİCE" />
+          <ScalarProperty Name="CATEGORY" ColumnName="CATEGORY" />
+          <ScalarProperty Name="DATEADDPRO" ColumnName="DATEADDPRO" />
+          <ScalarProperty Name="PRODUCTCASE" ColumnName="PRODUCTCASE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
