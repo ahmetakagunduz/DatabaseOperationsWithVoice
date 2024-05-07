@@ -1,4 +1,4 @@
-﻿namespace Machine_Learning_with_c_
+﻿namespace DbOperationIdeas
 {
     partial class Form1
     {
@@ -35,15 +35,15 @@
             this.label8 = new System.Windows.Forms.Label();
             this.textBox6 = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
-            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.TextSellPrice = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.TextBuyPrice = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.TextName = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -78,15 +78,15 @@
             this.panel1.Controls.Add(this.label8);
             this.panel1.Controls.Add(this.textBox6);
             this.panel1.Controls.Add(this.label7);
-            this.panel1.Controls.Add(this.textBox5);
+            this.panel1.Controls.Add(this.TextSellPrice);
             this.panel1.Controls.Add(this.label6);
-            this.panel1.Controls.Add(this.textBox4);
+            this.panel1.Controls.Add(this.TextBuyPrice);
             this.panel1.Controls.Add(this.label5);
             this.panel1.Controls.Add(this.textBox3);
             this.panel1.Controls.Add(this.label4);
             this.panel1.Controls.Add(this.textBox2);
             this.panel1.Controls.Add(this.label3);
-            this.panel1.Controls.Add(this.textBox1);
+            this.panel1.Controls.Add(this.TextName);
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
@@ -95,7 +95,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(311, 756);
             this.panel1.TabIndex = 0;
-            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // comboBox1
             // 
@@ -137,6 +136,7 @@
             // 
             // textBox6
             // 
+            this.textBox6.Enabled = false;
             this.textBox6.Location = new System.Drawing.Point(119, 313);
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(182, 31);
@@ -151,12 +151,12 @@
             this.label7.TabIndex = 11;
             this.label7.Text = "CATEGORY:";
             // 
-            // textBox5
+            // TextSellPrice
             // 
-            this.textBox5.Location = new System.Drawing.Point(119, 269);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(182, 31);
-            this.textBox5.TabIndex = 10;
+            this.TextSellPrice.Location = new System.Drawing.Point(119, 269);
+            this.TextSellPrice.Name = "TextSellPrice";
+            this.TextSellPrice.Size = new System.Drawing.Size(182, 31);
+            this.TextSellPrice.TabIndex = 10;
             // 
             // label6
             // 
@@ -167,12 +167,12 @@
             this.label6.TabIndex = 9;
             this.label6.Text = "SELLPRICE:";
             // 
-            // textBox4
+            // TextBuyPrice
             // 
-            this.textBox4.Location = new System.Drawing.Point(119, 220);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(182, 31);
-            this.textBox4.TabIndex = 8;
+            this.TextBuyPrice.Location = new System.Drawing.Point(119, 220);
+            this.TextBuyPrice.Name = "TextBuyPrice";
+            this.TextBuyPrice.Size = new System.Drawing.Size(182, 31);
+            this.TextBuyPrice.TabIndex = 8;
             // 
             // label5
             // 
@@ -198,7 +198,6 @@
             this.label4.Size = new System.Drawing.Size(69, 25);
             this.label4.TabIndex = 5;
             this.label4.Text = "STOCK:";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // textBox2
             // 
@@ -216,12 +215,12 @@
             this.label3.TabIndex = 3;
             this.label3.Text = "BRAND:";
             // 
-            // textBox1
+            // TextName
             // 
-            this.textBox1.Location = new System.Drawing.Point(119, 91);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(182, 31);
-            this.textBox1.TabIndex = 2;
+            this.TextName.Location = new System.Drawing.Point(119, 91);
+            this.TextName.Name = "TextName";
+            this.TextName.Size = new System.Drawing.Size(182, 31);
+            this.TextName.TabIndex = 2;
             // 
             // label2
             // 
@@ -240,7 +239,6 @@
             this.label1.Size = new System.Drawing.Size(162, 25);
             this.label1.TabIndex = 0;
             this.label1.Text = "PRODUCT DETAILS";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // panel2
             // 
@@ -293,7 +291,6 @@
             this.button3.TabIndex = 2;
             this.button3.Text = "Object Detection";
             this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button2
             // 
@@ -312,7 +309,7 @@
             this.BtnAddProduct.TabIndex = 0;
             this.BtnAddProduct.Text = "Add Product";
             this.BtnAddProduct.UseVisualStyleBackColor = true;
-            this.BtnAddProduct.Click += new System.EventHandler(this.button1_Click);
+            this.BtnAddProduct.Click += new System.EventHandler(this.BtnAddProduct_Click);
             // 
             // panel3
             // 
@@ -401,7 +398,7 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Load += new System.EventHandler(this.Form1_load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);
@@ -423,15 +420,15 @@
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.TextBox textBox6;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.TextBox TextSellPrice;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox TextBuyPrice;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox TextName;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.MaskedTextBox maskedTextBox1;

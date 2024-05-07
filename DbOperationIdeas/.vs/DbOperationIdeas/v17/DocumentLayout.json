@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{373D53EC-8114-40A6-8ECE-EB9FE6305D00}|Machine Learning with c#\\Machine Learning with c#.csproj|solutionrelative:machine learning with c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{373D53EC-8114-40A6-8ECE-EB9FE6305D00}|Machine Learning with c#\\Machine Learning with c#.csproj|c:\\users\\logar\\desktop\\kampc#\\mcv5\\machine learning with c#\\machine learning with c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{373D53EC-8114-40A6-8ECE-EB9FE6305D00}|Machine Learning with c#\\DbOperationIdeas.csproj|c:\\users\\logar\\desktop\\kampc#\\mcv5\\machine learning with c#\\machine learning with c#\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373D53EC-8114-40A6-8ECE-EB9FE6305D00}|Machine Learning with c#\\DbOperationIdeas.csproj|solutionrelative:machine learning with c#\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373D53EC-8114-40A6-8ECE-EB9FE6305D00}|Machine Learning with c#\\Machine Learning with c#.csproj|C:\\Users\\logar\\Desktop\\kampc#\\mcv5\\Machine Learning with c#\\machine learning with c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{373D53EC-8114-40A6-8ECE-EB9FE6305D00}|Machine Learning with c#\\Machine Learning with c#.csproj|solutionrelative:machine learning with c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,21 +30,35 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\logar\\Desktop\\kampc#\\mcv5\\Machine Learning with c#\\Machine Learning with c#\\Form1.cs",
               "RelativeDocumentMoniker": "Machine Learning with c#\\Form1.cs",
-              "ToolTip": "C:\\Users\\logar\\Desktop\\kampc#\\mcv5\\Machine Learning with c#\\Machine Learning with c#\\Form1.cs*",
-              "RelativeToolTip": "Machine Learning with c#\\Form1.cs*",
-              "ViewState": "AQIAAEkAAAAAAAAAAADwv1sAAAA6AAAA",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\kampc#\\mcv5\\Machine Learning with c#\\Machine Learning with c#\\Form1.cs",
+              "RelativeToolTip": "Machine Learning with c#\\Form1.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAA0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T18:31:06.789Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\kampc#\\mcv5\\Machine Learning with c#\\Machine Learning with c#\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Machine Learning with c#\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\kampc#\\mcv5\\Machine Learning with c#\\Machine Learning with c#\\Form1.Designer.cs",
+              "RelativeToolTip": "Machine Learning with c#\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:57:08.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\logar\\Desktop\\kampc#\\mcv5\\Machine Learning with c#\\Machine Learning with c#\\Form1.cs",
               "RelativeDocumentMoniker": "Machine Learning with c#\\Form1.cs",
-              "ToolTip": "C:\\Users\\logar\\Desktop\\kampc#\\mcv5\\Machine Learning with c#\\Machine Learning with c#\\Form1.cs [Design]*",
-              "RelativeToolTip": "Machine Learning with c#\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\kampc#\\mcv5\\Machine Learning with c#\\Machine Learning with c#\\Form1.cs [Design]",
+              "RelativeToolTip": "Machine Learning with c#\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T15:48:11.146Z",
               "EditorCaption": " [Design]"
