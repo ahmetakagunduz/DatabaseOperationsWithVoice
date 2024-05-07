@@ -25,7 +25,7 @@ namespace DbOperationIdeas
 
             dataGridView1.DataSource = products;
         }
-        //DbProductAIEntities db = new DbProductAIEntities();
+        DbProductAIEntities db = new DbProductAIEntities();
 
         void enabled()
         {
